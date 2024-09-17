@@ -1,6 +1,8 @@
 ### Telah diformat untuk kejelasan percakapan
 
-**Customer Service**: Terima kasih telah menghubungi [Nama Perusahaan]. Ini [Nama] yang berbicara. Ada yang bisa saya bantu?
+[Listen to audio file](https://on.soundcloud.com/vmAc6YbQcbtmK6ww8)
+
+**Customer Service**: Terima kasih telah menghubungi Example.com. Ini Eka yang berbicara. Ada yang bisa saya bantu?
 
 **Joko**: Iya, halo! Ini Joko dari Surabaya. Saya pesan barang di toko online kamu tiga hari yang lalu, dan seharusnya barangnya sudah sampai kemarin, tapi saya belum terima juga! Ada apa ini?
 
